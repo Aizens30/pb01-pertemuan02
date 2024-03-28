@@ -1,7 +1,7 @@
 package model;
 
-public class Matakuliah{
- publc static void tampilanInfo(){
+public class MataKuliah{
+ public static void tampilanInfo(){
   System.out.println();
   System.out.println("==Data Mata Kuliah ======================");
   System.out.println("NIDN : TIF3402");
@@ -9,3 +9,4 @@ public class Matakuliah{
   System.out.println("===================================");
  }
 }
+
